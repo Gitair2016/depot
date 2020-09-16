@@ -4,8 +4,10 @@ one:
   description: MyText
   image_url: MyString
   price: 9.99
+  title: fdfdfd
 
 two:
   description: MyText
   image_url: MyString
   price: 9.99
+  title: fdfdfds
